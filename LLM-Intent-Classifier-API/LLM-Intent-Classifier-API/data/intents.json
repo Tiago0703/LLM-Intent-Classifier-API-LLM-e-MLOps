@@ -1,0 +1,26 @@
+{
+  "consulta_saldo": [
+    "Quero saber quanto tenho na minha conta",
+    "Qual é o meu saldo atual?",
+    "Verificar meu extrato",
+    "Me diga o saldo"
+  ],
+  "falar_com_atendente": [
+    "Preciso falar com um humano",
+    "Quero ser atendido por um agente",
+    "Chamar um atendente",
+    "Não consigo resolver meu problema"
+  ],
+  "cancelar_servico": [
+    "Cancelar minha assinatura",
+    "Quero parar de usar o serviço",
+    "Como faço para cancelar?",
+    "Encerrar minha conta"
+  ],
+  "saudacao": [
+    "Olá",
+    "Oi, tudo bem?",
+    "Bom dia",
+    "Boa tarde"
+  ]
+}
