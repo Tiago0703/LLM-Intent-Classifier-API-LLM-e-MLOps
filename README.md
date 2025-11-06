@@ -1,0 +1,1 @@
+Este projeto demonstra a construção de um serviço de classificação de intenção de usuário utilizando um Large Language Model (LLM) e empacotado como uma API RESTful. O foco é na aplicação prática de LLMs para tarefas de Processamento de Linguagem Natural (PLN) e na implementação de práticas de MLOps, como conteinerização e versionamento de modelos.
